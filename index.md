@@ -2,6 +2,8 @@
 	 <link rel="shortcut icon" type="image/x-icon" href="images/dbos.ico">
 </head>
 
+**This page is for the DBOS academic research project. For DBOS, Inc., founded by graduates of the research project, visit [https://dbos.dev](https://dbos.dev)**
+
 ## Blog Posts
 - August 30th, 2023 - [How to Get Transactions Between (Almost) Any Data Stores](https://petereliaskraft.net/blog/epoxy) 
 - August 28th, 2023 - [The Time Traveler's Guide to Distributed Applications](https://qianli.dev/blog/timetravel)
